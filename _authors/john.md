@@ -1,8 +1,7 @@
 ---
 short_name: John
 name: John Nocum
-project: Hacking Real-time AI workflows for Eye Diagnosi
-Using Open-Source Software
+project: Hacking Real-time AI workflows for Eye Diagnosis Using Open-Source Software
 year: 2025
 github: stoppedtime24
 ---
