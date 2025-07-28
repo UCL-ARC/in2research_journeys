@@ -1,7 +1,7 @@
 ---
 title: Week 5 - Adding More Functionality and Refactoring
 date: 2025-07-25
-time:"17:00"
+time: "17:00"
 author: john
 categories: ["refactoring"]
 layout: post
