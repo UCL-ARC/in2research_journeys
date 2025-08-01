@@ -15,6 +15,11 @@ layout: post
 - Added additional functionality to plot_losses.py and plot_performance.py. These files are now able to take a list of loss value and performance metric files and plot them on the same graph. This is helpful when comparing the performance of more than one model. Plotting the loss values is especially useful since we can see after which epoch a model demonstrates overfitting behaviour.
 
 ### This Week's Challenges
+
 - Debugging why I couldn't load in models stored in repositories cloned from Huggin Face. After doing some googling, I figured out that instead of the model weights being downloaded when the repo was cloned, instead a pointer to the file containing the model weights was being used instead. To fix this, I had to download the raw file from the Hugging Face repo. This step is reflected in the docs.
+- Figuring out how to plot all information in the performance plots without the bars overlapping.
 
 ### Next Week's Plan
+
+- Continue to work on my powerpoint presentation.
+- Start working on my poster that I'll be presenting at the In2Research Poster Presentation event in September.
