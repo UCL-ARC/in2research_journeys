@@ -1,5 +1,5 @@
 ---
-title:Week 7 - Utilisation of sombrero benchmark and testing within a HPC system
+title: Week 7 - Utilisation of sombrero benchmark and testing within a HPC system
 date: 2025-07-02
 time: "16:30:00"
 author: luthyanof
