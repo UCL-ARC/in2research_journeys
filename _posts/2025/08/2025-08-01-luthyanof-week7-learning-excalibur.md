@@ -1,6 +1,6 @@
 ---
 title: Week 7 - Utilisation of sombrero benchmark and testing within a HPC system
-date: 2025-07-02
+date: 2025-08-02
 time: "16:30:00"
 author: luthyanof
 categories: ["Learning", "Benchmarking","Computer Simulations","Sombrero"] 
