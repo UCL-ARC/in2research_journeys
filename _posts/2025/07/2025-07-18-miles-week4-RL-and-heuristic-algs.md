@@ -27,7 +27,7 @@ I am building a machine learning model that predicts errors, and using these to 
 | Enlisted and incorporated a set of Quantum Gate Rules into RL| ✔        |
 | Converted my circuit generator into a function which feeds circuits into RL environment| ✔         |
 
-###Simulated Annealing
+### Simulated Annealing
 
 Simulated annealing is used as a known benchmark, a heuristic algorithm which has been chosen to compare results of QCO against Reinforcement Learning.
 This algorithm is known to optimise and find solutions - however, most importantly trained to not react abruptly to local minima.
