@@ -1,5 +1,5 @@
 ---
-title: Week 1 – Data Collection and Pre-processing
+title: Week 1 – Data Collection and Preprocessing
 date: 2025-06-16
 time: "11:30"
 author: hirraa
