@@ -9,7 +9,7 @@ layout: post
 
 ### Highlights
 
-- Comleting my PowerPoint slides for my presentation next week on Tuesday's Social. This presentation summarises all the work I've accomplished in the last few weeks, providing context on the tool I'm contributing to and the technical challenges I overcame. Miguel, Stephen, Zakaria, and Diego have been very supportive in improving my slides. By completing my slides, I have a clearer understanding of what to put on my poster.
+- Completing my PowerPoint slides for my presentation next week on Tuesday's Social. This presentation summarises all the work I've accomplished in the last few weeks, providing context on the tool I'm contributing to and the technical challenges I overcame. Miguel, Stephen, Zakaria, and Diego have been very supportive in improving my slides. By completing my slides, I have a clearer understanding of what to put on my poster.
 
 ### This Week's Challenges
 - MIguel gave me a previous poster he had about READY, which had the information like the model architecture and the medical context. In order to make it my own, I've had to remove some significant chunks of content, specifically text to fit in my contributions. However, it's been a challenge deciding what to remove since I see value in all of it.
