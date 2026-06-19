@@ -21,4 +21,6 @@ I also attended the UCL Festival of Digital Research, Innovation & Scholarship, 
 
 In terms of my project, I learned about using libraries, installing packages, organising code, using argparse, and the basics of packaging a project. A lot of this was new to me, but it helped me understand how Python code can be structured so it is easier to run and reuse.
 
-<img height="200px" src="/in2research_journeys/images/yyyy/mm/image-file.jpg" />
+### Plan For Next Week
+
+Next week I plan to start getting familiar with JAX and begin exploring S2FFT. I want to work through the basic JAX ideas first, such as arrays, jit, grad, and vmap, then try running some of the S2FFT tutorial examples.
