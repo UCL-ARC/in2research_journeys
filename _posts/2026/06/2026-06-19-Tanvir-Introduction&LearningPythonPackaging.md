@@ -13,7 +13,7 @@ My project is based around S2FFT, a Python package for working with data on the 
 
 The parts that interest me most are using GPU acceleration to speed up these computations, exploring how libraries like JAX can make the algorithms differentiable, and seeing how these tools can be applied to real examples.
 
-<img height="200px" src="/images/2026/06/Spherical_Sampling.png" alt="Spherical sampling diagram" />
+<img height="200px" src="/in2research_journeys/images/2026/06/Spherical_Sampling.png" alt="Spherical sampling diagram" />
 
 ### Highlights From This Week
 
@@ -25,7 +25,7 @@ I also attended the UCL Festival of Digital Research, Innovation & Scholarship, 
 
 Seeing how welcoming everyone was made it a really positive start to the internship.
 
-<img height="200px" src="/images/2026/06/90_HH.jpg" alt="Office" />
+<img height="200px" src="/in2research_journeys/images/2026/06/90_HH.jpg" alt="Office" />
 
 ### Plan For Next Week
 
