@@ -8,7 +8,7 @@
   - Only the first time, we want to configure main to track the upstream repository,
     running this command on VS Code terminal (in Windows make sure you've got gitbash):
     ```
-    git remote add upstream git@github.com:UCL-ARC/in2research_journeys.git
+    git remote add upstream https://github.com/UCL-ARC/in2research_journeys.git
 	git pull --set-upstream upstream main
     ```
 
