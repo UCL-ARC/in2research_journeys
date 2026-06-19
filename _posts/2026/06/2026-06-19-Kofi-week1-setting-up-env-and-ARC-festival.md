@@ -1,5 +1,5 @@
 ---
-title: Mr
+title: Week 1- Setting up virtual and work environments and ARC Festival
 date: 2026-06-19
 time: "15:40:00"
 author: kofii
