@@ -20,9 +20,9 @@ This project involves the development of various AI models and the use of variou
 Here you write your content on markdown. If you want to add an image, you can add them under
 
 ### Setbacks
--The project was mainly designed to accomodate Linux/Mac OS so there were some commands I had to use alternatives on the terminal. 
--Some test cases failed mainly because the repo uses backslash while windows or git bash uses forward slash which was slightly complicated.
--Could not install Cuda because it was meant to be for Ubuntu or linux OS. Tried installing Ubuntu and led git bash and some applications on the computer crashing. Will follow this up  on my first catch up meeting next Monday.
+- The project was mainly designed to accomodate Linux/Mac OS so there were some commands I had to use alternatives on the terminal. 
+- Some test cases failed mainly because the repo uses backslash while windows or git bash uses forward slash which was slightly complicated.
+- Could not install Cuda because it was meant to be for Ubuntu or linux OS. Tried installing Ubuntu and led git bash and some applications on the computer crashing. Will follow this up  on my first catch up meeting next Monday.
 
 ### Next Week's Plan
 - Meet up with my supervisors to discuss my setback from earlier and derive a solution
