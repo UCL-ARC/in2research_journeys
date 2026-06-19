@@ -1,6 +1,6 @@
 ---
 title: Week 1- Introductory Week + UCL ARC Digital Research Festival a
-date: 2026-06-9
+date: 2026-06-19
 time: "15:30"
 author: mmohamoud
 categories: ["learning", "python", "introduction","festival","Research","git"] # This is optional, list of categories that you want to add
