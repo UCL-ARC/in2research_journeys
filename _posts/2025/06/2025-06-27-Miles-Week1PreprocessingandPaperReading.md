@@ -3,7 +3,7 @@ title: Week 1 – Preprocessing and Paper Reading
 date: 2025-06-27
 time: "19:00"
 author: miles
-categories: ["reinforcement learning", "preprocessing", "qiskit", "quantum computing"]
+categories: ["reinforcement learning", "Preprocessing", "qiskit", "quantum computing"]
 layout: post
 ---
 

@@ -3,7 +3,7 @@ title: Week 2 - Improving Framework Functionality
 date: 2025-07-04
 time: "15:00"
 author: john
-categories: ["pytorch", "models", "convolutional neural networks", "software engineering"]
+categories: ["Pytorch", "models", "convolutional neural networks", "software engineering"]
 layout: post
 ---
 

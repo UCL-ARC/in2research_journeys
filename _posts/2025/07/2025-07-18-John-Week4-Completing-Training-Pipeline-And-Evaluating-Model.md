@@ -3,7 +3,7 @@ title: Week 4 - Completing Training Pipeline and Evaluating Model
 date: 2025-07-18
 time: "16:00"
 author: john
-categories: ["pytorch", "models", "pipelines"]
+categories: ["Pytorch", "models", "pipelines"]
 layout: post
 ---
 

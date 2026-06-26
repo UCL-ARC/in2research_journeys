@@ -3,7 +3,7 @@ title: Week 1 - Shell and 'uv' Learning
 date: 2025-06-16
 time: "10:30:00"
 author: luthyanof
-categories: ["learning", "python", "shell", "uv"] 
+categories: ["Learning", "Python", "shell", "uv"]
 layout: post
 ---
 

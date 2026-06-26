@@ -3,7 +3,7 @@ title: Week 1 - Setting Up Dev. Environment and Attending Workshop
 date: 2025-06-30
 time: "09:00"
 author: john
-categories: ["linux", "open-source", "medicine", "workshop" ]
+categories: ["Linux", "open-source", "medicine", "workshop" ]
 layout: post
 ---
 

@@ -3,7 +3,7 @@ title: Week 2- Producing preprocessing package for image segmentation
 date: 2026-06-26
 time: "17:30"
 author: mmohamoud
-categories: ["Augmentation", "python", "Preprocessing","Research","pytorch"] # This is optional, list of categories that you want to add
+categories: ["Augmentation", "Python", "Preprocessing","Research","Pytorch"] # This is optional, list of categories that you want to add
 layout: post
 ---
 
