@@ -3,7 +3,7 @@ title: Week 2 - Mathematical Basics & Common Packages
 date: 2026-06-26
 time: "17:30:00"
 author: tanvir
-categories: ["learning", "python", "fourier", "JAX", "numpy"]
+categories: ["Learning", "Python", "fourier", "JAX", "numpy"]
 layout: post
 ---
 

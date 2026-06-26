@@ -3,7 +3,7 @@ title: Week 3 - First Merge and Developing a Training Pipeline
 date: 2025-07-11
 time: "15:00"
 author: john
-categories: ["pytorch", "training"]
+categories: ["Pytorch", "training"]
 layout: post
 ---
 

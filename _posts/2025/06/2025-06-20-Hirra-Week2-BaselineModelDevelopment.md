@@ -3,7 +3,7 @@ title: "Week 2 – Baseline Model Development"
 date: 2025-06-20
 time: "17:00"
 author: hirraa
-categories: ["NLP", "machine learning", "social media"]
+categories: ["NLP", "Machine Learning", "social media"]
 layout: post 
 ---
 
