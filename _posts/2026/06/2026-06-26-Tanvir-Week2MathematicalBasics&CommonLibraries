@@ -26,3 +26,5 @@ Next week I want to start putting this trying out the S2FFT tutorial examples.
 I'd hoped to run the S2FFT examples this week, but I realised I was missing some of the mathematical background first; working through that has made the package much clearer, so next week I'll be ready to dive into the examples.
 
 I also plan to get more familiar with plotting and visualising outputs in Python, in preparation for making some of the tutorial documentation for the package.
+
+<img height="50px" src="/images/2026/06/Spherical_Transforms.jpeg" alt="Visualised spherical transforms" />
