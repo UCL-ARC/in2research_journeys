@@ -1,5 +1,5 @@
 ---
-title:Week 8 - Data collection through reframe and plotting tests result of the HPC system
+title: "Week 8 - Data collection through reframe and plotting tests result of the HPC system"
 date: 2025-07-08
 time: "16:30:00"
 author: luthyanof
