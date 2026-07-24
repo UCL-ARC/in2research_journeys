@@ -29,4 +29,4 @@ layout: post
 
 * Begin training U-Net on augmented images and familiarise myself with at least 1 other model from the research, so I can work towards benchmarking 3 models against each other.
 
-* ![Bring it Home](123.png)
+* ![Bring it Home](image.png)
