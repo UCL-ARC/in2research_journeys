@@ -1,5 +1,5 @@
 ---
-title: Week 5 - Implementing Federated Learning, merging code and implementing inference on federated learning for demonstarting output on poster 
+title: Week 6 - Implementing Federated Learning, merging code and implementing inference on federated learning for demonstarting output on poster 
 date: 2026-07-31
 time: "16:30:00"
 author: kofii
