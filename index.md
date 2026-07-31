@@ -13,18 +13,26 @@ Note that this_year is a string, but is converted as number adding 0
 
 {% assign authors_year = 0 | plus: 0 %}
 {% assign authors_names = "" | split: "," %}
+{% assign authors_stem_year = 0 | plus: 0 %}
+{% assign authors_stem_names = "" | split: "," %}
 {% assign this_year = site.time | date: '%Y' | plus: 0 %}
 
 {% for author in site.authors %}
   {% if author.year == this_year %}
-    {% assign authors_year = authors_year | plus: 1 %}
     {% assign author_url = author.url | prepend:site.baseurl | prepend: '<a href="' | append: '.html">' %}
-    {% assign author_name = author.name | prepend: author_url | append: '</a>' %}
-    {% assign authors_names = authors_names | push:  author_name %}
+    {% if author.programme == "STEMPoint" %}
+        {% assign authors_stem_year = authors_stem_year | plus: 1 %}
+        {% assign author_stem_name = author.name | prepend: author_url | append: '</a>' %}
+        {% assign authors_stem_names = authors_stem_names | push:  author_stem_name %}
+    {% else %}
+       {% assign authors_year = authors_year | plus: 1 %}
+       {% assign author_name = author.name | prepend: author_url | append: '</a>' %}
+       {% assign authors_names = authors_names | push:  author_name %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
-Welcome to this [In2research](https://in2scienceuk.org/our-programmes/in2research/) Journeys at ARC blog where ARC's placement students post a weekly summary of their experience while they learn. This year {{this_year}} we've got {{authors_year}} students: {{authors_names | short_natural | join: ", "}}.
+Welcome to this [In2research](https://in2scienceuk.org/our-programmes/in2research/) Journeys at ARC blog where ARC's placement students post a weekly summary of their experience while they learn. This year {{this_year}} we've got {{authors_year}} students: {{authors_names | short_natural | join: ", "}}. {% if authors_stem_year > 0 %} Additionally, we've got {{authors_stem_year}} workplace students from the [STEMPoint](https://www.stempoint.org.uk/) programme, they are: {{authors_stem_names | short_natural | join: ", "}}.{% endif %}
 	
 You can subscribe to our [RSS feed]({{"feed.xml" | prepend: baseurl}}) if you'd like to get them on your favourite reader.
 	
