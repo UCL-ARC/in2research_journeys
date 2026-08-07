@@ -1,8 +1,8 @@
 ---
-title: "Week 1 – FIXME"
+title: "Week 1 – Learning about UCL and the Workplace"
 date: 2026-07-31
 time: "15:00"
-author: 2026tasmin
+author: tasminmin
 categories: ["github", "work experience", "quality"]
 ---
 
