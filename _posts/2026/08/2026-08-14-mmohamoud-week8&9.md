@@ -30,3 +30,5 @@ layout: post
 * This placement has helped me better understand the research process, including debugging, testing, rerunning experiments, analysing results and communicating technical work through meetings, blog posts and the ARC Forum presentation.
 
 * I want to also thank the In2Science team , ARC and my supervior for making this such a valuable experience, and for giving me the chance to develop my skills while contributing to this project.
+
+![Presentation page + Results](IMG_0182.png)
