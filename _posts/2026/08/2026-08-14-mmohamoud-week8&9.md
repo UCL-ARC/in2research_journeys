@@ -1,0 +1,32 @@
+---
+title: Week 8/9 - Completed Model Training + ARC Forum + Final week  
+date: 2026-07-14
+time: "18:30"
+author: mmohamoud
+categories: ["Benchmarking", "Presentation","myriad", "forum" , "deeplab" , "RITnet","deep learning","training","merge"] # This is optional, list of categories that you want to add
+layout: post
+---
+
+### Highlights
+
+* This week, was the last week of my 8-week placement which has flown by and as such this will be my last blog post. I have thoroughly enjoyed my time at ARC and relished every moment , learnt and gained and improved a multitude of amazing skills and have had the ability to speak to and meet many awesome people. Thank you to everyone at ARC.
+* I primarily spent last week ( week8 ) and monday of this week completing the benchmarking objective as my final objective and was able to successfully train the 3 model ( UNet, Deeplab and RITnet ) on 18 different condition using the 3 datasets as outlined in the previous post I used all 3 datasets ( MOBIUS openEDS AND RITeyes ) and trained the models on 2 versions of each the original dataset and an augmented dataset which was produced by taking 10% of the original dataset and using the preprocessing pipeline I built in the first 3 weeks I applied 10 augmentations to each image including ( CLAHE , Gamma , Blur , Grayscale , etc.) so had 3 x 3 x 2 = 18 training runs.
+* I then spent Friday - Monday analysing the metrics outputted by each run and analysing with regards to the other runs I was able to identify that openEDS's original and augmented datasets' had the highest model accuracy and metrics( DICE , mIoU ,f1 , fbeta, recall , precission). I also found that the augmentations only provided a higher model accuracy and metrics for all 3 models on the mobius augmented dataset (97.76%)specifically with a higher accuracy compared to the original mobius ( 96.97%). For openEDS and RITeyes however the augmentations seemed to have little to no effect with an accuracy just under the model accuracy by (±0.5%) in most cases with some cases such as riteyes with RITnet which had a differernce of ~ 4%. I read some papers and found that despite this the augmentations accuracy only tells us how often the model got a pixel right, not how well it would cope with blurry, dark, or unusual real-world images it hasn't seen before. Research on similar models has found augmentation's may impprove the robustness of a model and benefits elsewhere, like more reliably spotting small, hard-to-see parts of the eye such as the pupil, even when the overall accuracy score stays about the same. A clearer test would be evaluating these models on a completely different, unseen dataset after training them on their respective datasets, since that's a much stronger way to check whether augmentation genuinely makes a model more reliable in the real world, rather than just comparing accuracy on data similar to what it already trained on.
+* I also presented at the ARC forum with Kofi and was able to communicate my research to an audience of ARC members really enjoyed doing so and explaining my Research.
+
+### Challenges
+
+* I had to rerun a few runs due to different issues including incorrect paths due to having from my branch and merged with Kofi and using his paths.
+* Issues with training on myriad with a few runs requiring longer than the allocated time , one got cut off after finish training and validation but before a model accuracy could be printed . :-(
+* Issues with metrics.py I found early on luckily was that the n_classes ( number of classes ) was set to 1 by default instead of 4 which would of provided skewed metrics which would've been representative of only the image background ( skin ).
+* openEDS contained a capped batch limit of 200 per training which was meaning that the full dataset was not being analysed as such I removed to assess on the full dataset and reran however due to time constraints and 1 job running and only completing 40% of the epochs within the allocated time I reimplemented and added to RIT-eyes as well as openEDS for all runs to ensure consistency to cut training time down.
+
+### Reflections
+
+* I have really enjoyed my time at ARC and am grateful to everyone who supported me throughout the placement. Thank you to my supervisors, the wider ARC team, and everyone I had the chance to meet and learn from.
+
+* I have learnt a lot about machine learning, deep learning, data preprocessing, segmentation models and benchmarking, while becoming more confident with Python, Git, Model training and benchmarking.
+
+* This placement has helped me better understand the research process, including debugging, testing, rerunning experiments, analysing results and communicating technical work through meetings, blog posts and the ARC Forum presentation.
+
+* I want to also thank the In2Science team , ARC and my supervior for making this such a valuable experience, and for giving me the chance to develop my skills while contributing to this project.
