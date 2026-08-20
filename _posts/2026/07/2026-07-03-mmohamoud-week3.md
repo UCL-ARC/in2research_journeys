@@ -3,7 +3,7 @@ title: Week 3 - Preprocessing on the mobious dataset
 date: 2026-07-03
 time: "17:30"
 author: mmohamoud
-categories: ["Augmentation", "python", "Preprocessing","MOBIOUS","Pillow","Image","mask"] # This is optional, list of categories that you want to add
+categories: ["augmentation", "Python", "preprocessing","MOBIOUS","Pillow","image","mask"] # This is optional, list of categories that you want to add
 layout: post
 ---
 

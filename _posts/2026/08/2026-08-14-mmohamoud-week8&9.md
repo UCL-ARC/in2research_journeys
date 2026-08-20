@@ -3,7 +3,7 @@ title: Week 8/9 - Completed Model Training + ARC Forum + Final week
 date: 2026-07-14
 time: "18:30"
 author: mmohamoud
-categories: ["Benchmarking", "Presentation","myriad", "forum" , "deeplab" , "RITnet","deep learning","training","merge"] # This is optional, list of categories that you want to add
+categories: ["benchmarking", "presentation","myriad", "forum" , "deeplab" , "RITnet","deep learning","training","merge"] # This is optional, list of categories that you want to add
 layout: post
 ---
 

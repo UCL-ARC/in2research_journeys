@@ -3,7 +3,7 @@ title: Development of benchmarks in excalibur and measuring performance on HPC s
 date: 2025-07-11
 time: "15:30:00"
 author: luthyanof
-categories: ["Learning", "ARCHER2", "Parallel Computing","Computer Simulations"] 
+categories: ["Learning", "ARCHER2", "parallel computing","computer simulations"] 
 layout: post
 ---
 ___________________________________________________________________________________________________________________________________

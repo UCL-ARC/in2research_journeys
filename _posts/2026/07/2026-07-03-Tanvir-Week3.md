@@ -3,7 +3,7 @@ title: Week 3 - Running Examples & Preparing Outputs
 date: 2026-07-03
 time: "15:30:00"
 author: tanvir
-categories: ["learning", "python", "tutorials", "examples"]
+categories: ["learning", "Python", "tutorials", "examples"]
 layout: post
 ---
 

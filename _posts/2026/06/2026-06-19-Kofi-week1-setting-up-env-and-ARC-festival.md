@@ -3,7 +3,7 @@ title: Week 1- Setting up virtual and work environments and ARC Festival
 date: 2026-06-19
 time: "15:40:00"
 author: kofii
-categories: ["Linux", "Git", "Python", "Learning", "introduction"]
+categories: ["Linux", "Git", "Python", "learning", "introduction"]
 layout: post
 ---
 

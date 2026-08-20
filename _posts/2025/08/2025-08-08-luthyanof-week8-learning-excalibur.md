@@ -3,7 +3,7 @@ title: "Week 8 - Data collection through reframe and plotting tests result of th
 date: 2025-07-08
 time: "16:30:00"
 author: luthyanof
-categories: ["Data Collection","Graphical Representation", "Benchmarking","Computer Simulations","Sombrero"] 
+categories: ["data collection","graphical representation", "benchmarking","computer simulations","sombrero"] 
 layout: post
 ---
 ___________________________________________________________________________________________________________________________________

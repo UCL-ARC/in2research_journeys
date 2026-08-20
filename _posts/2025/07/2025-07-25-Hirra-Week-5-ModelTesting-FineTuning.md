@@ -3,7 +3,7 @@ title: Week 5 – Model Testing & Fine-Tuning
 date: 2025-07-21
 time: "11:30"
 author: hirraa
-categories: ["NLP", "Deep Learning", "Fine-Tuning"]
+categories: ["NLP", "deep learning", "fine-tuning"]
 layout: post
 ---
 

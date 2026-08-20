@@ -3,7 +3,7 @@ title: Introduction & Learning Python Packaging
 date: 2026-06-19
 time: "16:30:00"
 author: tanvir
-categories: ["Learning", "Python", "packaging", "libraries"]
+categories: ["learning", "Python", "packaging", "libraries"]
 layout: post
 ---
 

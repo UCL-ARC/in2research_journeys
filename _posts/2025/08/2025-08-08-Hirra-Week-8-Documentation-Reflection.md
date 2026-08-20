@@ -3,7 +3,7 @@ title: Week 8 – Documentation & Reflection
 date: 2025-08-08
 time: "11:30"
 author: hirraa
-categories: ["Communication", "Visualisation", "Reflection"]
+categories: ["communication", "visualisation", "reflection"]
 layout: post
 ---
 This week I completed my presentation slides 📑 and received valuable feedback from my supervisor, which helped refine the content and style. I then presented at the ARC collaboration hour 🎤 , a great opportunity to improve my presentation skills and communicate my project to a wider audience.  

@@ -3,7 +3,7 @@ title: Week 7 – Visualisation & Final Presentation
 date: 2025-08-01
 time: "11:30"
 author: hirraa
-categories: ["NLP", "Visualisation", "Preparation"]
+categories: ["NLP", "visualisation", "preparation"]
 layout: post
 ---
 

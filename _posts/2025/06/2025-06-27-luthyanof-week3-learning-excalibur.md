@@ -3,7 +3,7 @@ title: Week 3 - Understand Development of Benchmark in OpenFOAM through Spack
 date: 2025-06-27
 time: "15:30:00"
 author: luthyanof
-categories: ["Learning", "OpenFOAM", "Spack", "motorBike CPU benchmark"]
+categories: ["learning", "OpenFOAM", "Spack", "benchmark"]
 layout: post
 ---
 ___________________________________________________________________________________________________________________________________

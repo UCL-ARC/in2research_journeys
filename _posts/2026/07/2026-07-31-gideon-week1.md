@@ -3,7 +3,7 @@ title: "Week 1 – Introductory Week + Workshops and tours"
 date: 2026-07-31
 time: "15:00"
 author: 2026gideon
-categories: ["github", "work experience", "quality"]
+categories: ["GitHub", "work experience", "quality"]
 ---
 
 This post marks the completion of my first week of my 2 week work placement at UCL ARC. A lot of knowledge was gained in this first week!

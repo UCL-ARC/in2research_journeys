@@ -3,7 +3,7 @@ title: Week 3- Implementation of lighter weight models, training and validation
 date: 2026-07-03
 time: "15:00:00"
 author: kofii
-categories: ["Linux", "Git", "Python", "Learning", "Torchvision", "deeplab", "Model training", "Mobilenetv3_large", "LLRASP"]
+categories: ["Linux", "Git", "Python", "Learning", "Torchvision", "deeplab", "model training", "Mobilenetv3_large", "LLRASP"]
 layout: post
 ---
 

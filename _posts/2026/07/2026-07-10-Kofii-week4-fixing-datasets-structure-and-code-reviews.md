@@ -3,7 +3,7 @@ title: Week 4 - Fixing datasets, Code reviews, Access to Myriad GPU, Code Mergin
 date: 2026-07-10
 time: "16:30:00"
 author: kofii
-categories: ["Linux", "Git", "Python", "Learning", "Torchvision", "deeplab", "UNet", "Model training", "OpenEDS", "Mobious", ]
+categories: ["Linux", "Git", "Python", "Learning", "Torchvision", "deeplab", "UNet", "model training", "OpenEDS", "Mobious", ]
 layout: post
 ---
 

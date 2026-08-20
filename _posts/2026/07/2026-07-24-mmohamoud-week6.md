@@ -3,7 +3,7 @@ title: Week 6 - U-Net Model training (Cont.)
 date: 2026-07-24
 time: "17:00"
 author: mmohamoud
-categories: ["U-Net", "myriad", "Model","deep learning","training",] # This is optional, list of categories that you want to add
+categories: ["U-Net", "myriad", "model","deep learning","training",] # This is optional, list of categories that you want to add
 layout: post
 ---
 

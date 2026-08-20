@@ -3,7 +3,7 @@ title: Week 5 – Updating Simulated Annealing for QCO
 date: 2025-07-25
 time: "17:00:00"
 author: miles
-categories: ["Simulating Annealing", "quantum circuit optimisation"]
+categories: ["simulating annealing", "quantum circuit optimisation"]
 layout: post
 ---
 

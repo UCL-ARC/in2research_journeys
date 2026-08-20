@@ -3,7 +3,7 @@ title: Week 7 - Implementing Inference on federated learning, drafting poster an
 date: 2026-08-07
 time: "17:00:00"
 author: kofii
-categories: ["Linux", "Git", "Python", "Federated Learning", "Myriad", "UNet", "Code merging", "Merge conflicts", "Github", "Inference", "Model Prediction"]
+categories: ["Linux", "Git", "Python", "federated learning", "myriad", "UNet", "code merging", "merge conflicts", "GitHub", "inference", "model prediction"]
 layout: post
 ---
 

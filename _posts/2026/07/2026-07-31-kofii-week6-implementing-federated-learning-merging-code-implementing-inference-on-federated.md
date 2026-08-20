@@ -3,7 +3,7 @@ title: Week 6 - Implementing Federated Learning, merging code and implementing i
 date: 2026-07-31
 time: "16:30:00"
 author: kofii
-categories: ["Linux", "Git", "Python", "Federated Learning", "Myriad", "UNet", "Code merging", "Merge conflicts", "Github", "Code reviews"]
+categories: ["Linux", "Git", "Python", "Federated Learning", "myriad", "UNet", "code merging", "merge conflicts", "GitHub", "code reviews"]
 layout: post
 ---
 

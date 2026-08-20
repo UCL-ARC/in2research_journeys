@@ -3,7 +3,7 @@ title: Week 2- Begun working on Eye segmentation and federated learning project
 date: 2026-06-26
 time: "15:30:00"
 author: kofii
-categories: ["Linux", "Git", "Python", "Learning", "Pytorch", "deeplab", "Model training"]
+categories: ["Linux", "Git", "Python", "learning", "Pytorch", "deeplab", "model training"]
 layout: post
 ---
 

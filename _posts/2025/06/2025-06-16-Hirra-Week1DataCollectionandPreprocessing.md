@@ -3,7 +3,7 @@ title: Week 1 – Data Collection and Preprocessing
 date: 2025-06-16
 time: "11:30"
 author: hirraa
-categories: ["NLP", "Preprocessing", "COVID-19", "Pharmacovigilance"]
+categories: ["NLP", "preprocessing", "COVID-19", "pharmacovigilance"]
 layout: post
 ---
 

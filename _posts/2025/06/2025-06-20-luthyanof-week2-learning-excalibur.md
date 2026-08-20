@@ -3,7 +3,7 @@ title: Week 2 - Study Reframe Models and Usage of a Docker
 date: 2025-06-20
 time: "16:30:00"
 author: luthyanof
-categories: ["Learning", "Python", "reframe", "docker","ssh-keygen"]
+categories: ["learning", "Python", "reframe", "docker","ssh-keygen"]
 layout: post
 ---
 

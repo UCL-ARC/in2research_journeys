@@ -3,7 +3,7 @@ title: Week 3 – Deep Learning Model Development & Refinement
 date: 2025-06-27
 time: "14:30"
 author: hirraa
-categories: ["NLP", "Machine Learning", "Deep Learning" , "Class balancing"]
+categories: ["NLP", "machine learning", "deep learning" , "class balancing"]
 layout: post
 ---
 

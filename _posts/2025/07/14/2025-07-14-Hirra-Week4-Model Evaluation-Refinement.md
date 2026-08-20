@@ -3,7 +3,7 @@ title: Week 4 – Model Evaluation & Refinement
 date: 2025-07-14
 time: "09:00"
 author: hirraa
-categories: ["NLP", "Machine Learning", "Deep Learning" , "Hyperparameter Tuning"]
+categories: ["NLP", "machine learning", "deep learning" , "hyperparameter tuning"]
 layout: post
 ---
 

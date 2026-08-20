@@ -3,7 +3,7 @@ title: Week 4 - Finalising preprocessing package
 date: 2026-07-10
 time: "15:00"
 author: mmohamoud
-categories: ["Shutil", "python", "openEDS","data-wrangling","RIT-eyes","npy","conversion" , ] # This is optional, list of categories that you want to add
+categories: ["Shutil", "Python", "openEDS","data-wrangling","RIT-eyes","npy","conversion" , ] # This is optional, list of categories that you want to add
 layout: post
 ---
 

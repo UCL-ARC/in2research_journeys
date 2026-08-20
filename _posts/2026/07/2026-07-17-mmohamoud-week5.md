@@ -3,7 +3,7 @@ title: Week 5 - U-Net Model training
 date: 2026-07-17
 time: "17:00"
 author: mmohamoud
-categories: ["U-Net", "deep learning", "Model","benchmarking","training"] # This is optional, list of categories that you want to add
+categories: ["U-Net", "deep learning", "model","benchmarking","training"] # This is optional, list of categories that you want to add
 layout: post
 ---
 

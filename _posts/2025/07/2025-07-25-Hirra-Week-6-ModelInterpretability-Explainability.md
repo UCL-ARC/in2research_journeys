@@ -3,7 +3,7 @@ title: Week 6 – Model Interpretability & Explainability
 date: 2025-07-25
 time: "11:30"
 author: hirraa
-categories: ["NLP", "XAI", "Interpretability"]
+categories: ["NLP", "XAI", "interpretability"]
 layout: post
 ---
 

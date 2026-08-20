@@ -3,7 +3,7 @@ title: Week 7 - Model Training + project merging
 date: 2026-07-31
 time: "17:30"
 author: mmohamoud
-categories: ["U-Net", "RITnet","myriad", "Model","deep learning","training","merge"] # This is optional, list of categories that you want to add
+categories: ["U-Net", "RITnet","myriad", "model","deep learning","training","merge"] # This is optional, list of categories that you want to add
 layout: post
 ---
 

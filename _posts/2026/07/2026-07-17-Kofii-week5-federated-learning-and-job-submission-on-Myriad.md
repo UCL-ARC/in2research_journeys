@@ -3,7 +3,7 @@ title: Week 5- Federated Learning and job submission on Myriad
 date: 2026-07-17
 time: "16:20:00"
 author: kofii
-categories: ["Linux", "Git", "Python", "Federated Learning",  "UNet", "Model training", "OpenEDS", "Mobious", "RIT-Eyes", "Myriad", "RDSS" ]
+categories: ["Linux", "Git", "Python", "Federated Learning",  "UNet", "model training", "OpenEDS", "Mobious", "RIT-Eyes", "myriad", "RDSS" ]
 layout: post
 ---
 

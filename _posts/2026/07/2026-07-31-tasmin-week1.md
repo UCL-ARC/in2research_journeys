@@ -3,7 +3,7 @@ title: "Week 1 – Learning about UCL and the Workplace"
 date: 2026-07-31
 time: "15:00"
 author: tasminmin
-categories: ["github", "work experience", "quality"]
+categories: ["GitHub", "work experience", "quality"]
 ---
 
 ## Overview of my First Week
