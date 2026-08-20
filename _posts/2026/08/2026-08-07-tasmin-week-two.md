@@ -1,6 +1,6 @@
 ---
 title: Week Two - In the Office
-date: 2025-06-11
+date: 2025-08-07
 time: "15:30:00"
 author: 2026tasmin
 categories: ["github", "work experience", "quality"] 
