@@ -31,4 +31,4 @@ layout: post
 
 * I want to also thank the In2Science team , ARC and my supervior for making this such a valuable experience, and for giving me the chance to develop my skills while contributing to this project.
 
-![Presentation page + Results](IMG_0182.png)
+![Presentation page + Results]({{ site.baseurl }}/images/2026/IMG_0182.png)
